@@ -9,5 +9,3 @@ And there might be one in `maybe-conflict` branch.
 Check them out.
 
 This was pushed by Michael with SSH
-
-Trying to push with deleted ssh
