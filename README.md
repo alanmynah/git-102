@@ -2,9 +2,9 @@
 
 A session about conflicts and SSH
 
-There is a conflict in `conflict` branch or maybe not, who knows?
+Look at this awesome branch. Hopefully there is no conflict.
 
-And there might be one in `maybe-conflict` branch.
+There might be one in `maybe-conflict` branch though.
 
 Check them out.
 
